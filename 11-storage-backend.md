@@ -1,0 +1,3 @@
+ConfigMap
+Secret (default)
+SQL
